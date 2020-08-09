@@ -87,7 +87,23 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 
 
+.where1 {
+  margin: 0 5px 20px 5px;
+}
 
+
+.placeholder0::-webkit-input-placeholder { color: #999999;}
+.placeholder0:-moz-placeholder { color: #999999;}
+.placeholder0::-moz-placeholder { color: #999999;}
+.placeholder0:-ms-input-placeholder { color: #999999;}
+
+
+.s2-txt2 {
+  font-family: Lato-Bold;
+  font-size: 15px;
+  line-height: 1.4;
+  color: #846add;
+}
 
   /* ....................................................................................... */
 
