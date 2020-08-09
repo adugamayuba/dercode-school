@@ -105,6 +105,12 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
   color: #846add;
 }
 
+
+.validate-input {
+  position: relative;
+}
+
+
   /* ....................................................................................... */
 
 
