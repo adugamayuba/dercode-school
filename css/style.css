@@ -77,6 +77,18 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 .w-full {width: 100%;}
 
+
+.wrap-input100 {
+  position: relative;
+  max-width: calc(100% - 10px);
+  width: 500px;
+  z-index: 1;
+}
+
+
+
+
+
   /* ....................................................................................... */
 
 
